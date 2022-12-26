@@ -15,3 +15,4 @@ class Solution(object):
                 if check == True:
                     ans.append(-1)
         return ans
+ 
