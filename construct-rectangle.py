@@ -8,3 +8,4 @@ class Solution(object):
             elif L*W > area:
                 W-=1
         return [L,W]
+ 
