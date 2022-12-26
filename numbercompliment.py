@@ -11,3 +11,4 @@ class Solution(object):
             list1[i] = '0'
             b = ''.join(list1)
         return int(b,2)
+ 
