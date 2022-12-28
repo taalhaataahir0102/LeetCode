@@ -12,3 +12,4 @@ class Solution(object):
         elif countu == 1 and countl == len(word)-1 and word[0] == word[0].upper():
             return True
         return False
+ 
