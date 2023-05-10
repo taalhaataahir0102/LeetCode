@@ -12,3 +12,4 @@ class Solution(object):
     if list(d.values()) == [0]*len(set(s)):
       return True
     return False
+ 
