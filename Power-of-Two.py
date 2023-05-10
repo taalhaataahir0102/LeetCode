@@ -8,3 +8,4 @@ class Solution(object):
       if n1 == n:
         return True
     return False
+ 
